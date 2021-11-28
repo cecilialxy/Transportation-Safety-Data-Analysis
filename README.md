@@ -15,11 +15,11 @@ The purpose of this project is using statistical methods to help understand the 
   - Pay more attention to the relevant features when doing transportation planning.
 
 ## Where to get start?
-- Step 1: Check [Transportation Study Focused Correlation Test](./CorrelationTest/Transportation-Study-Focused-CorrelationTest.ipynb) chapter to find out:
+- Step 1: Check [Transportation Study Focused Correlation Test](./CorrelationTest/Transportation Study Focused Correlation Test.ipynb) chapter to find out:
   - What types of data are going to be studied.
   - What methodologies can be used to help understand the realtionship of the variables from mathematical aspect.
-- Step 2: Check [Correlation Test Methodology](./CorrelationTest/CorrelationTestMethodology.ipynb) chapter to understand the testing methodologies.
-- Step 3: Check [CorrelationTest Example](./CorrelationTest/CorrelationTestExample.ipynb) chapter for examples of how to conduct the test and how to interpret the results.
+- Step 2: Check [Correlation Test Methodology](./CorrelationTest/Correlation Test Methodology.ipynb) chapter to understand the testing methodologies.
+- Step 3: Check [CorrelationTest Example](./CorrelationTest/Correlation Test Example.ipynb) chapter for examples of how to conduct the test and how to interpret the results.
 
 ## Acknowledgement
 This study is supported by Champaign County Regional Planning Commission (CCRPC) and carried out by Xiyue Li and Shuake Wuzhati.
