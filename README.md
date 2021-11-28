@@ -1,4 +1,4 @@
-# TransportationSafetyDataStudy
+# Transportation Safety Data Analysis
  
 ## What the project does?
 The purpose of this project is using statistical methods to help understand the relationship of roadway safety risk factors (Roadway, Environment, Vehicle, Human) and the crashes (Occurence, Rate, Severity, Type).
